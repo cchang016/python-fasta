@@ -1,4 +1,8 @@
-def read_fasta(filename):
+Adds python as interpreter
+This is actually useful 
+#!/usr/bin/env python
+# coding: utf-8
+
     seq=''
     f=open(filename)
     for line in f:
