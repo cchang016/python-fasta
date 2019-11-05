@@ -2,7 +2,7 @@ Adds python as interpreter
 This is actually useful 
 #!/usr/bin/env python
 # coding: utf-8
-
+"This is a good thing to do"
     seq=''
     f=open(filename)
     for line in f:
