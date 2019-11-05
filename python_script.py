@@ -1,13 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 def read_fasta(filename):
-    """
-    Read a FASTA format sequence from the named file
-    """
     seq=''
     f=open(filename)
     for line in f:
